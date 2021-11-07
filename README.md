@@ -1,11 +1,13 @@
-### Hi there 👋
+# Hello, world!👋
+
+![Portada Linkend ing](https://user-images.githubusercontent.com/6958149/140666339-ad8646e4-8fa2-4206-9476-88f973473ef3.png)
 
 My name is Manuel Illidge, Software Engineer 🇨🇴| Front-End | student Data Engineer | student Python Developer
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Manuel-illidge&count_private=true&show_icons=true&theme=solarized-dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-illidge&theme=solarized-dark&layout=compact)
-# Hello, world! <img src="img/wave.gif" width="30px">
+# Hello, world!
 
 ## 🔧 Technologies & Tools
 
