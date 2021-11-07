@@ -2,9 +2,9 @@
 
 My name is Manuel Illidge, Software Engineer 🇨🇴| Front-End | student Data Engineer | student Python Developer
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Manuel-illidgeg&count_private=true&show_icons=true&theme=solarized-dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Manuel-illidge&count_private=true&show_icons=true&theme=solarized-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-illidgeg&theme=solarized-dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-illidge&theme=solarized-dark&layout=compact)
 # Hello, world! <img src="img/wave.gif" width="30px">
 
 ## 🔧 Technologies & Tools
